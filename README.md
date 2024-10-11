@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nice to see you</h1>
+<h1 align="center">Hi 👋, Nice to see you</h1>
 <h3 align="center">I'm a Colombian developer passionate about technology and always eager to learn. I'm currently studying Systems Engineering at Pontificia Universidad Javeriana, driven by the desire to understand the digital world around me. I believe I can create solutions from scratch using only my skills, which motivates me to keep learning.</h3>
 
 - 🌱 I’m currently learning **Flutter**
