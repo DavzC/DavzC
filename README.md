@@ -14,10 +14,10 @@
 
 ---
 
-### 🚀 Tech Stack & Superpowers [▸](https://yourportfolio.com/tech-stack)
+### 🚀 Tech Stack & Superpowers
 
 #### 📊 Skill Overview
-[![Tech Radar](https://skillicons.dev/icons?i=java,flutter,android,cpp,py,aws,angular,spring,postgresql&perline=9)](https://github.com/tuusuario)
+[![Tech Radar](https://skillicons.dev/icons?i=java,flutter,android,cpp,py,aws,angular,spring,postgresql&perline=9)](https://github.com/DavzC)
 [![Skill Chart](https://quickchart.io/chart?c={type:'bar',data:{labels:['Java','Flutter','Android','C++','Python'], datasets:[{label:'Mastery Level',data:[90,95,93,85,88],backgroundColor:['#007396','#02569B','#3DDC84','#00599C','#3776AB']}]}})](https://github.com/tuusuario)
 
 #### 📱 Mobile & Embedded (⭐⭐⭐⭐⭐)
