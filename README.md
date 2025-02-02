@@ -1,18 +1,86 @@
-<h1 align="center">Hi 👋, Nice to see you</h1>
-<h3 align="center">I'm a Colombian developer passionate about technology and always eager to learn. I'm currently studying Systems Engineering at Pontificia Universidad Javeriana, driven by the desire to understand the digital world around me. I believe I can create solutions from scratch using only my skills, which motivates me to keep learning.</h3>
+<h1 align="center">🚀 Hi, I'm David Ortiz | Colombian Tech Enthusiast</h1>
+<h3 align="center">"Turning Coffee into Code ☕️ | Systems Engineering Student @ Pontificia Universidad Javeriana"</h3>
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **java, c++**
-
-- 📫 How to reach me **davidortiz37575@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/david-ortiz-b2136a1ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-ortiz-b2136a1ba" height="30" width="40" /></a>
-<a href="https://instagram.com/davidortizcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidortizcs" height="30" width="40" /></a>
-<a href="https://discord.gg/davz375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="davz375" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+Apps+Creator;Cloud+Explorer;Tech+Innovator;Continuous+Learner" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=tuusuario&theme=radical&border_radius=4.7)
+  ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+  
+</div>
+
+---
+
+### 🛠️ My Tech Arsenal
+
+#### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Jetpack_Compose-3DDC84?logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Coroutines-7F52FF?logo=kotlin&logoColor=white)
+
+#### 🌐 Web Development
+![Angular](https://img.shields.io/badge/Angular-Material_Design-DD0031?logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Security-6DB33F?logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=amazon-aws&logoColor=white)
+
+#### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Performance_Optimization-4169E1?logo=postgresql&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-Distributed_Systems-6933FF?logo=cockroach-labs&logoColor=white)
+
+#### 🎨 Design & Prototyping
+![Figma](https://img.shields.io/badge/Figma-UI/UX_Design-F24E1E?logo=figma&logoColor=white)
+
+---
+
+### 🌱 Current Learning Journey
+![Flutter](https://progress-bar.dev/85/?title=Flutter+Mastery&color=02569B)
+![AWS](https://progress-bar.dev/60/?title=AWS+Certification&color=FF9900)
+![Clean Architecture](https://progress-bar.dev/45/?title=Clean+Architecture&color=22D3EE)
+
+---
+
+### 🎯 Top Projects
+| Project | Tech Stack | Description | Live Demo |
+|---------|------------|-------------|-----------|
+| **[Smart Home App]** | Flutter, AWS IoT, Python | IoT solution for home automation | [🚀 Try Demo](link) |
+| **[E-Commerce Platform]** | Angular, Spring Boot, PostgreSQL | Full-stack shopping solution | [🛒 View Demo](link) |
+| **[AI Chat Bot]** | Python, TensorFlow, Flask | NLP-powered assistant | [🤖 Interact](link) |
+
+---
+
+### 💬 Code Philosophy
+> _"I believe in writing code that's:_
+> - ♻️ **Sustainable**: Clean architecture patterns
+> - 🔒 **Secure**: OWASP top 10 compliant
+> - 🚀 **Efficient**: Optimized algorithms
+> - 🤖 **Automated**: CI/CD pipelines"_
+
+---
+
+### 📬 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/david-ortiz-b2136a1ba">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:davidortiz37575@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://davidortiz.dev">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://leetcode.com/tu_perfil">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views">
+  <a href="https://twitter.com/intent/follow?screen_name=tuusuario">
+    <img src="https://img.shields.io/twitter/follow/tuusuario?logo=twitter&style=for-the-badge" alt="Twitter Follow">
+  </a>
+</p>
