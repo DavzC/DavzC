@@ -18,7 +18,7 @@
 
 #### 📊 Skill Overview
 [![Tech Radar](https://skillicons.dev/icons?i=java,flutter,android,cpp,py,aws,angular,spring,postgresql&perline=9)](https://github.com/DavzC)
-[![Skill Chart](https://quickchart.io/chart?c={type:'bar',data:{labels:['Java','Flutter','Android','C++','Python'], datasets:[{label:'Mastery Level',data:[90,95,93,85,88],backgroundColor:['#007396','#02569B','#3DDC84','#00599C','#3776AB']}]}})](https://github.com/DavzC)
+
 
 #### 📱 Mobile & Embedded (⭐⭐⭐⭐⭐)
 [![Flutter](https://img.shields.io/badge/Flutter-4.8/5-02569B?logo=flutter&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario?tab=repositories&query=flutter)](https://flutter.dev)
