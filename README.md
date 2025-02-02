@@ -17,7 +17,7 @@
 ### 🚀 Tech Stack & Superpowers
 
 #### 📊 Skill Overview
-[![Tech Radar](https://skillicons.dev/icons?i=java,flutter,android,cpp,py,aws,angular,spring,postgresql&perline=9)](https://github.com/DavzC)
+[![Tech Radar](https://skillicons.dev/icons?i=java,flutter,cpp,py,aws,angular,spring,postgresql&perline=9)](https://github.com/DavzC)
 
 
 #### 📱 Mobile & Embedded (⭐⭐⭐⭐⭐)
