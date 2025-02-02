@@ -7,8 +7,8 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=tuusuario&theme=radical&border_radius=4.7)
-  ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=DavzC&theme=radical&border_radius=4.7)
+  ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavzC&show_icons=true&theme=radical)
   
 </div>
 
