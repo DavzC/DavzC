@@ -14,31 +14,48 @@
 
 ---
 
-### 🛠️ My Tech Arsenal
+### 🚀 Tech Stack & Superpowers [▸](https://yourportfolio.com/tech-stack)
 
-#### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-Jetpack_Compose-3DDC84?logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-Coroutines-7F52FF?logo=kotlin&logoColor=white)
+#### 📊 Skill Overview
+[![Tech Radar](https://skillicons.dev/icons?i=java,flutter,android,cpp,py,aws,angular,spring,postgresql&perline=9)](https://github.com/tuusuario)
+[![Skill Chart](https://quickchart.io/chart?c={type:'bar',data:{labels:['Java','Flutter','Android','C++','Python'], datasets:[{label:'Mastery Level',data:[90,95,93,85,88],backgroundColor:['#007396','#02569B','#3DDC84','#00599C','#3776AB']}]}})](https://github.com/tuusuario)
 
-#### 🌐 Web Development
-![Angular](https://img.shields.io/badge/Angular-Material_Design-DD0031?logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Security-6DB33F?logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Lambda-FF9900?logo=amazon-aws&logoColor=white)
+#### 📱 Mobile & Embedded (⭐⭐⭐⭐⭐)
+[![Flutter](https://img.shields.io/badge/Flutter-4.8/5-02569B?logo=flutter&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario?tab=repositories&query=flutter)](https://flutter.dev)
+[![Android](https://img.shields.io/badge/Android-4.7/5-3DDC84?logo=android&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario?tab=repositories&query=android)](https://developer.android.com)
+[![Kotlin](https://img.shields.io/badge/Kotlin-4.5/5-7F52FF?logo=kotlin&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario?tab=repositories&query=kotlin)](https://kotlinlang.org)
+[![Arduino](https://img.shields.io/badge/Arduino-4.2/5-00979D?logo=arduino&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/arduino-projects)](https://www.arduino.cc)
 
-#### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Performance_Optimization-4169E1?logo=postgresql&logoColor=white)
-![CockroachDB](https://img.shields.io/badge/CockroachDB-Distributed_Systems-6933FF?logo=cockroach-labs&logoColor=white)
+#### 🌐 Full Stack Web (⭐⭐⭐⭐)
+[![Angular](https://img.shields.io/badge/Angular-4.6/5-DD0031?logo=angular&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/angular-projects)](https://angular.io)
+[![Spring](https://img.shields.io/badge/Spring_Boot-4.8/5-6DB33F?logo=spring&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/spring-projects)](https://spring.io)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.4/5-3178C6?logo=typescript&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario?tab=repositories&query=typescript)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-4.7/5-F7DF1E?logo=javascript&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario?tab=repositories&query=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-#### 🎨 Design & Prototyping
-![Figma](https://img.shields.io/badge/Figma-UI/UX_Design-F24E1E?logo=figma&logoColor=white)
+#### 🗄️ Databases & Cloud (⭐⭐⭐⭐)
+[![AWS](https://img.shields.io/badge/AWS-4.3/5-FF9900?logo=amazon-aws&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/aws-projects)](https://aws.amazon.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4.6/5-4169E1?logo=postgresql&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/database-projects)](https://www.postgresql.org)
+[![CockroachDB](https://img.shields.io/badge/CockroachDB-4.1/5-6933FF?logo=cockroach-labs&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/distributed-systems)](https://www.cockroachlabs.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4.5/5-4479A1?logo=mysql&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/database-projects)](https://www.mysql.com)
 
----
+#### 🖥️ Systems & Languages (⭐⭐⭐⭐⭐)
+[![Java](https://img.shields.io/badge/Java-4.9/5-007396?logo=java&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/java-projects)](https://java.com)
+[![C++](https://img.shields.io/badge/C++-4.7/5-00599C?logo=c%2B%2B&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/cpp-projects)](https://isocpp.org)
+[![Python](https://img.shields.io/badge/Python-4.5/5-3776AB?logo=python&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/python-projects)](https://www.python.org)
+[![C](https://img.shields.io/badge/C-4.3/5-A8B9CC?logo=c&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/systems-programming)](https://en.cppreference.com/w/c/language)
 
-### 🌱 Current Learning Journey
-![Flutter](https://progress-bar.dev/85/?title=Flutter+Mastery&color=02569B)
-![AWS](https://progress-bar.dev/60/?title=AWS+Certification&color=FF9900)
-![Clean Architecture](https://progress-bar.dev/45/?title=Clean+Architecture&color=22D3EE)
+#### ⚙️ DevOps & Tools (⭐⭐⭐⭐)
+[![Git](https://img.shields.io/badge/Git-4.8/5-F05032?logo=git&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario)](https://git-scm.com)
+[![Linux](https://img.shields.io/badge/Linux-4.6/5-FCC624?logo=linux&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/linux-scripts)](https://www.linux.org)
+[![Figma](https://img.shields.io/badge/Figma-4.4/5-F24E1E?logo=figma&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/ui-designs)](https://www.figma.com)
+[![Docker](https://img.shields.io/badge/Docker-4.2/5-2496ED?logo=docker&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/containerized-apps)](https://www.docker.com)
+
+#### 🎨 Frontend Essentials (⭐⭐⭐⭐)
+[![HTML5](https://img.shields.io/badge/HTML5-4.7/5-E34F26?logo=html5&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/web-projects)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-4.5/5-1572B6?logo=css3&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/web-projects)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Sass](https://img.shields.io/badge/Sass-4.3/5-CC6699?logo=sass&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/css-frameworks)](https://sass-lang.com)
+
+🔍 **Hover Tip:** Click any technology badge to see related projects!
 
 ---
 
