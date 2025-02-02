@@ -80,7 +80,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views">
-  <a href="https://twitter.com/intent/follow?screen_name=tuusuario">
+  <a href="https://twitter.com/intent/follow?screen_name=DavzC">
     <img src="https://img.shields.io/twitter/follow/tuusuario?logo=twitter&style=for-the-badge" alt="Twitter Follow">
   </a>
 </p>
