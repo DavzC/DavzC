@@ -55,8 +55,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-4.3/5-1572B6?logo=css3&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/web-projects)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Sass](https://img.shields.io/badge/Sass-4.0/5-CC6699?logo=sass&style=for-the-badge&labelColor=1a1a1a&link=https://github.com/tuusuario/css-frameworks)](https://sass-lang.com)
 
-🔍 **Hover Tip:** Click any technology badge to see related projects!
-
 ---
 
 ### 🎯 Top Projects
