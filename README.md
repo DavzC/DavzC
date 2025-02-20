@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm David Ortiz | Colombian Tech Enthusiast</h1>
-<h3 align="center">"Turning Coffee into Code ☕️ | Systems Engineering Student @ Pontificia Universidad Javeriana"</h3>
+<h3 align="center">" Systems Engineering Student @ Pontificia Universidad Javeriana"</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+Apps+Creator;Cloud+Explorer;Tech+Innovator;Continuous+Learner" alt="Typing SVG" /></a>
