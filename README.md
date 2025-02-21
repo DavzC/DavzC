@@ -57,14 +57,6 @@
 
 ---
 
-### 🎯 Top Projects
-| Project | Tech Stack | Description | Live Demo |
-|---------|------------|-------------|-----------|
-| **[Smart Home App]** | Flutter, AWS IoT, Python | IoT solution for home automation | [🚀 Try Demo](link) |
-| **[E-Commerce Platform]** | Angular, Spring Boot, PostgreSQL | Full-stack shopping solution | [🛒 View Demo](link) |
-| **[AI Chat Bot]** | Python, TensorFlow, Flask | NLP-powered assistant | [🤖 Interact](link) |
-
----
 
 ### 💬 Code Philosophy
 > _"I believe in writing code that's:_
